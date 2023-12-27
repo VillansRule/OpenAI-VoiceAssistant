@@ -19,28 +19,37 @@ Before you begin, ensure you have met the following requirements:
 ## Setup
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/voice-assistant-generator.git
-   cd voice-assistant-generator
-Install dependencies:
+git clone https://github.com/yourusername/voice-assistant-generator.git
+cd voice-assistant-generator
 
-bash
+markdown
 Copy code
+
+2. **Install dependencies:**
 pip install -r requirements.txt
-Set your API keys:
 
-Open main.py and replace the placeholders for OpenAI and ElevenLabs API keys.
-Run the application:
-
-bash
+markdown
 Copy code
+
+3. **Set your API keys:**
+- Open `main.py` and replace the placeholders for OpenAI and ElevenLabs API keys.
+
+4. **Run the application:**
 python main.py
-Usage
-Type your message when prompted.
-Experience AI-generated responses.
-Listen to the text-to-speech output.
-Contributing
+
+yaml
+Copy code
+
+## Usage
+
+1. Type your message when prompted.
+2. Experience AI-generated responses.
+3. Listen to the text-to-speech output.
+
+## Contributing
+
 Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
