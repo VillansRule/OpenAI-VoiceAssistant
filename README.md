@@ -6,6 +6,7 @@ Welcome to the Voice Assistant Generator! This project combines OpenAI for natur
 
 - **AI Conversation:** Engage in interactive conversations with the OpenAI text generation model.
 - **Text-to-Speech:** Convert AI responses into speech using ElevenLabs' powerful text-to-speech API.
+- **Voice Input:** Use your microphone to provide voice input for a more interactive experience.
 
 ## Prerequisites
 
