@@ -30,15 +30,19 @@ Set your API keys:
 
 Open main.py and replace the placeholders for OpenAI and ElevenLabs API keys.
 Run the application:
+  
+   main.py
 
-      
-      python main.py
 ## Usage
 Type your message when prompted.
+Optionally, say "voice" to switch to voice input mode and speak into your microphone.
 Experience AI-generated responses.
 Listen to the text-to-speech output.
-Contributing
+## Contributing
 Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
+
+
+ 
