@@ -1,0 +1,5 @@
+# requirements.txt - List of project dependencies
+
+openai==0.27.0
+pygame==2.1.2
+requests==2.26.0
