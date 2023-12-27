@@ -1,4 +1,3 @@
-
 # Voice Assistant Generator
 
 Welcome to the Voice Assistant Generator! This project combines OpenAI for natural language processing and ElevenLabs for text-to-speech to create an interactive voice-based chatbot.
@@ -25,17 +24,15 @@ Before you begin, ensure you have met the following requirements:
    cd voice-assistant-generator
 Install dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
+  
+    pip install -r requirements
 Set your API keys:
 
 Open main.py and replace the placeholders for OpenAI and ElevenLabs API keys.
 Run the application:
 
-bash
-Copy code
-python main.py
+      
+      python main.py
 Usage
 Type your message when prompted.
 Experience AI-generated responses.
