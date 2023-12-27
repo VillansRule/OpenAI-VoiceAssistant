@@ -33,12 +33,12 @@ Run the application:
 
       
       python main.py
-Usage
+## Usage
 Type your message when prompted.
 Experience AI-generated responses.
 Listen to the text-to-speech output.
 Contributing
 Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
