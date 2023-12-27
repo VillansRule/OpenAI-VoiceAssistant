@@ -1,3 +1,4 @@
+
 # Voice Assistant Generator
 
 Welcome to the Voice Assistant Generator! This project combines OpenAI for natural language processing and ElevenLabs for text-to-speech to create an interactive voice-based chatbot.
@@ -44,4 +45,3 @@ Contributions are welcome! If you find any issues or want to enhance the functio
 
 License
 This project is licensed under the MIT License.
-
