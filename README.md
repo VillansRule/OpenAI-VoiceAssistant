@@ -30,7 +30,7 @@ Set your API keys:
 
 Open main.py and replace the placeholders for OpenAI and ElevenLabs API keys.
 Run the application:
-        ```bash
+        
       main.py
 
 ## Usage
