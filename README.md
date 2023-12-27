@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 Install dependencies:
 
   
-    pip install -r requirements
+    pip install -r requirements.txt
 Set your API keys:
 
 Open main.py and replace the placeholders for OpenAI and ElevenLabs API keys.
