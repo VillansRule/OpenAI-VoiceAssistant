@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/voice-assistant-generator.git
+   git clone https://github.com/VillansRule/OpenAI-VoiceAssistant
    cd voice-assistant-generator
 Install dependencies:
 
