@@ -40,7 +40,7 @@ Optionally, say "voice" to switch to voice input mode and speak into your microp
 Experience AI-generated responses.
 Listen to the text-to-speech output.
 ## Contributing
-Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to open an issue or submit a pull request.
+ If you find any issues or want to enhance the functionality, feel free to open an issue or submit a pull request. When forking give credit to me and Nobody65534
 
 ## License
 This project is licensed under the MIT License.
