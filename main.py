@@ -26,7 +26,7 @@ def generate_response(prompt):
 
 # Function to convert text to speech using ElevenLabs API
 def text_to_speech(text):
-    # Your ElevenLabs text-to-speech logic here
+  
     pass
 
 # Function to load conversation history from a file
